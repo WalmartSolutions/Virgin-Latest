@@ -24,7 +24,7 @@ I don't think I have to repeat my self again. Also they use Base64 on their user
 
 ![image](https://github.com/WS-External-Cloud/Readme-Assets/blob/main/virgin-gui3.png?raw=true)
 
-# Hall of Auitism
+# Hall of Autism
 
 ![image](https://github.com/WS-External-Cloud/Readme-Assets/blob/main/virgin-hoss.png?raw=true)
 
