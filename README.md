@@ -11,6 +11,13 @@ I don't think I have to repeat my self again. Also they use Base64 on their user
 
 # Hall of Auitism
 
+![image](https://github.com/WS-External-Cloud/Readme-Assets/blob/main/virgin-hoss.png?raw=true)
+
+![image](https://github.com/WS-External-Cloud/Readme-Assets/blob/main/virgin-hoss2.png?raw=true)
+
+![image](https://github.com/WS-External-Cloud/Readme-Assets/blob/main/virgin-hoss3.png?raw=true)
+
+![image](https://github.com/WS-External-Cloud/Readme-Assets/blob/main/virgin-hoss4.png?raw=true)
 
 # How To Use
 
@@ -25,4 +32,5 @@ I don't think I have to repeat my self again. Also they use Base64 on their user
 
 # GUI (Bind: RCtrl)
 
+![image](https://github.com/WS-External-Cloud/Readme-Assets/blob/main/virgin-gui3.png?raw=true)
 
