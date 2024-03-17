@@ -9,16 +9,6 @@ I don't think I have to repeat my self again. Also they use Base64 on their user
 [1]: https://github.com/3000IQPlay
 [2]: https://github.com/ethaanol
 
-# Hall of Auitism
-
-![image](https://github.com/WS-External-Cloud/Readme-Assets/blob/main/virgin-hoss.png?raw=true)
-
-![image](https://github.com/WS-External-Cloud/Readme-Assets/blob/main/virgin-hoss2.png?raw=true)
-
-![image](https://github.com/WS-External-Cloud/Readme-Assets/blob/main/virgin-hoss3.png?raw=true)
-
-![image](https://github.com/WS-External-Cloud/Readme-Assets/blob/main/virgin-hoss4.png?raw=true)
-
 # How To Use
 
 1. Download the Fabric installer from here, open it and choose Minecraft 1.20.1 & Fabric Loader 0.15.X
@@ -33,4 +23,14 @@ I don't think I have to repeat my self again. Also they use Base64 on their user
 # GUI (Bind: RCtrl)
 
 ![image](https://github.com/WS-External-Cloud/Readme-Assets/blob/main/virgin-gui3.png?raw=true)
+
+# Hall of Auitism
+
+![image](https://github.com/WS-External-Cloud/Readme-Assets/blob/main/virgin-hoss.png?raw=true)
+
+![image](https://github.com/WS-External-Cloud/Readme-Assets/blob/main/virgin-hoss2.png?raw=true)
+
+![image](https://github.com/WS-External-Cloud/Readme-Assets/blob/main/virgin-hoss3.png?raw=true)
+
+![image](https://github.com/WS-External-Cloud/Readme-Assets/blob/main/virgin-hoss4.png?raw=true)
 
